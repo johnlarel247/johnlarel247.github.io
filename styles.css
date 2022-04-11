@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap");
+@@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap");
 
 * {
   margin: 0;
@@ -48,7 +48,7 @@ body {
   height: 100%;
 }
 
-.resume .resume_left .resume_cover {
+.resume .resume_left .resume_content {
   padding: 0 25px;
 }
 
@@ -56,11 +56,11 @@ body {
   margin-bottom: 20px;
 }
 
-.resume .resume_left .yourname {
+.resume .resume_left .bold {
   color: #fff;
 }
 
-.resume .resume_left .student {
+.resume .resume_left .regular {
   color: #b1eaff;
 }
 
