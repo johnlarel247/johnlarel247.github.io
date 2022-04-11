@@ -48,7 +48,7 @@ body {
   height: 100%;
 }
 
-.resume .resume_left .resume_content {
+.resume .resume_left .resume_cover {
   padding: 0 25px;
 }
 
@@ -56,11 +56,11 @@ body {
   margin-bottom: 20px;
 }
 
-.resume .resume_left .bold {
+.resume .resume_left .yourname {
   color: #fff;
 }
 
-.resume .resume_left .regular {
+.resume .resume_left .student {
   color: #b1eaff;
 }
 
